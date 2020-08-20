@@ -4,3 +4,7 @@ hr {
     color: #F1C40F;
     background-color: #F1C40F;
 }
+
+body {
+    background-image: url(images/geometric-leaves.png) ;
+}
